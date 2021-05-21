@@ -1,0 +1,6 @@
+node_modules*/
+node_modules/
+rm -rf ./git/hooks/pre-commit
+.vscode*/
+.DS_Store
+imgs/*
